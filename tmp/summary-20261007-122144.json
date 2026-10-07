@@ -1,0 +1,4 @@
+{
+  "summary": "Rebranded the MotionSites demo to Aura Studio: cream and black theme, Bagel Fat One for the wordmark and headlines, Outfit for interface text, and an arched STUDIO label over the right side of aura. Nav, footer, plans, academy, affiliates, MCP, and legal copy now say Aura Studio. Verified the homepage wordmark, Hero filter, and Unlimited plans page on localhost:5174.",
+  "current_status": "Aura Studio restyle is live on the Vite demo. The library, filters, and plan pages use the new black-and-cream type system. The wordmark matches the reference treatment with a heavy rounded lowercase name and a small arched STUDIO."
+}

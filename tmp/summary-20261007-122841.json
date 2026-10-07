@@ -1,0 +1,4 @@
+{
+  "summary": "Removed the Parity Deals banner. Rebuilt the builder-name ticker as two equal rows with a linear loop, full-bleed on small screens, and a soft edge fade so names do not look chopped on a phone. Checked the homepage at desktop and at a 390px phone width.",
+  "current_status": "Aura Studio is a cream-and-black site with the aura wordmark, a Shan Dharan footer credit, no promo banner, and an even scrolling builder row."
+}

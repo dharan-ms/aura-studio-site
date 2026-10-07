@@ -1,0 +1,4 @@
+{
+  "summary": "Rebuilt motionsites.ai as a local Vite React app with the dark homepage, animated gradient headline, prompt grid with filters and copy/unlock, plus Unlimited, Backgrounds, Academy, Affiliates, Contact, Auth, MCP, and legal pages. Dev server is running at http://localhost:5173/. Prompt copy is original demo text, and Academy lessons link out to the YouTube channel rather than hosting the original videos.",
+  "current_status": "Interactive multi-page MotionSites demo is running locally. Homepage filters, prompt modal, Unlimited plans, backgrounds, and sign-in were checked in the browser."
+}

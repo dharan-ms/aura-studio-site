@@ -1,0 +1,4 @@
+{
+  "summary": "Expanded the MotionSites demo library from 27 to 54 prompts, added four Academy lessons, a Saved filter with bookmarks, a builder marquee, a prompt count, and a Browse/Copy/Launch strip. Save was checked on localhost:5174.",
+  "current_status": "The local demo at http://localhost:5174/ now has a longer catalog plus save and how-it-works sections. Dev server is still running."
+}
